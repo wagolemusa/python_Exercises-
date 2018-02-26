@@ -1,3 +1,5 @@
+#program displays date and time
+
 import datetime
 
 now = datetime.datetime.now()
